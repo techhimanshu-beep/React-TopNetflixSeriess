@@ -5,6 +5,8 @@ This is the simple `UI` of my project..
 
 you must watch these awesome `netflix` series(haha)...
 
+![Screenshot (16)](https://user-images.githubusercontent.com/72072039/145361094-457320a5-0a63-4ca9-bf48-c0173a5b194a.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
